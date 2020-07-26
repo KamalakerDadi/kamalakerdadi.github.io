@@ -1,25 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-        <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
+    {%- include head.html -%}
 
+    <body>
 
-	<p class="sidebar"><strong>Citation</strong>: <a href="https://www.sciencedirect.com/science/article/pii/S1053811920306121" target="_blank">Dadi et al, NeuroImage 2020</a></p>
-      </header>
-      <section>
+        {%- include header.html -%}
 
-      {{ content }}
+        <main class="page-content" aria-label="Content">
+            <div class="wrapper">
+                {{ content }}
+            </div>
+        </main>
 
-      </section>
-    </div>
-    {% endif %}
-  </body>
+        {%- include footer.html -%}
+
+    </body>
+
 </html>
