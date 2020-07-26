@@ -2,3 +2,9 @@
 title: Kamalaker Dadi
 github_username: KamalakerDadi
 theme: minima
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
