@@ -1,3 +1,10 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+order: 3
+---
+
 
 Kamalaker Dadi is a Ph.D. student in Computer Science at the Parietal
 team supported by INRIA affiliated to the Universite Paris-Saclay.
