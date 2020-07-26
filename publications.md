@@ -9,4 +9,4 @@ order: 3
 {% assign years = (2015..currentyear) | reverse %}
 {% for year in years %}
 ## {{ year }}
-
+{% endfor %}
