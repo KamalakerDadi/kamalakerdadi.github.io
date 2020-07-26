@@ -1,4 +1,6 @@
 
 title: Kamalaker Dadi
 
-theme: jekyll-theme-minimal
+theme: minima
+
+markdown: cramdown
