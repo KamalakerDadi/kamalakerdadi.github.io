@@ -10,5 +10,3 @@ order: 3
 {% for year in years %}
 ## {{ year }}
 
-{% bibliography --query @*[year={{ year }}] %}
-{% endfor %}
