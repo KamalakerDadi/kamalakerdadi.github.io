@@ -1,6 +1,4 @@
 
-## Biography
-
 ![alt text](drawing.png "It's me")
 
 Kamalaker Dadi is a Ph.D. student in Computer Science at the Parietal
