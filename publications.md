@@ -5,7 +5,7 @@ permalink: /publications/
 order: 3
 ---
 
-## Journal publications
+## Journal papers
 
 - K. Dadi, G. Varoquaux, A. Machlouzarides-Shalit, K.J. Gorgolewski, D. Wassermann,
   B. Thirion, A. Mensch. *Fine-grain atlases of functional modes for fMRI analysis*
