@@ -11,3 +11,4 @@ order: 3
   B. Thirion, A. Mensch. *Fine-grain atlases of functional modes for fMRI analysis*
   NeuroImage 2020.
   [(PDF)](https://hal.inria.fr/hal-02904869/file/revised3.pdf)
+  [(link)](https://doi.org/10.1016/j.neuroimage.2020.117126)
