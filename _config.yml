@@ -1,13 +1,25 @@
+# Welcome to Jekyll!
+#
 
-title: Personal page of Kamalaker Dadi
+title: Kamalaker Dadi, Research Scientist, IIIT Hyderabad
+author: kdadi
+email: dkamalakarreddy@gmail.com
+description: >
+        The academic webpage of Kamalaker Dadi, Research Scientist
+        at the International Institute of Information Technology,
+        Hyderabad.
+baseurl: ""
+url: "http://kamalakerdadi.github.io"
+repository: KamalakerDadi/kamalakerdadi.github.io
+github_username: KamalakerDadi
+scholar_username: 0u695CEAAAAJ
+orcid_username: 0000-0003-2214-1050
 my_github: https://github.com/KamalakerDadi
 my_scholar: https://scholar.google.com/citations?user=0u695CEAAAAJ
-github_username: KamalakerDadi
-theme: minima
-home: ./bio.html
-research: ./publications.html
 
-plugins:
-  - jekyll-feed
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
   - jekyll-seo-tag
 
