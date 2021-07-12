@@ -4,7 +4,6 @@ my_github: https://github.com/KamalakerDadi
 my_scholar: https://scholar.google.com/citations?user=0u695CEAAAAJ
 github_username: KamalakerDadi
 theme: minima
-remote_theme: benbalter/retlab
 
 
 plugins:
