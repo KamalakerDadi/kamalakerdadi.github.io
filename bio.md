@@ -1,16 +1,19 @@
 ---
-title: Bio
+title: Biosketch
 layout: page
 permalink: /bio/
 order: 2
 ---
 
+I (Kamalaker Dadi) received the Engineering degree in Electronics from JNT
+ University, India and MSc
+degree in Biomedical Engineering from Linkoping university, Sweden.
+After that, I held several academic positions as a Junior research fellow and
+research
+engineer in India and France respectively.
+ In 2020, I received my PhD from the University of Paris-Saclay,
+France followed by a short-term post-doc position at Parietal team INRIA.
+My PhD thesis topic was about approximating proxy measures for AI in mental health.
 
-Kamalaker Dadi is a Ph.D. student in Computer Science at the Parietal
-team supported by INRIA affiliated to the Universite Paris-Saclay.
-His research interests lie at the intersection of data science and neuroscience.
-During his Ph.D., he works on statistical methods for large-scale brain imaging
-analysis.
-In his spare time, he contributes to Python programming based open-source scientific
-libraries. Before pursuing his Ph.D., he got a Master’s degree in Biomedical Engineering
- and a Bachelor’s degree in Electronics.
+During my stay at Parietal-INRIA, I worked under
+ Dr. Gaël Varoquaux, Dr. Bertrand Thirion and Dr. Denis A. Engemann.
